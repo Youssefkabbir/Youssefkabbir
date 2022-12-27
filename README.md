@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefkabbir&label=Profile%20views&color=0e75b6&style=flat" alt="youssefkabbir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefkabbir" alt="youssefkabbir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/youssef kabir" target="blank"><img src="https://img.shields.io/twitter/follow/youssef kabir?logo=twitter&style=for-the-badge" alt="youssef kabir" /></a> </p>
 
 - 📫 How to reach me **kabiryoussef94@gmail.com**
 
@@ -21,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefkabbir&show_icons=true&locale=en" alt="youssefkabbir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefkabbir&" alt="youssefkabbir" /></p>
-
